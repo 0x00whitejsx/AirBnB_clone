@@ -10,7 +10,7 @@ always at the bottom at the page
 */
 
 footer {
-    color: white;
+    background-color: white;
     height: 60px;
     width: 100%;
     border-top: 1px #CCCCCC;
